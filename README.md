@@ -9,8 +9,8 @@ The applications use the Bank Customer Churn dataset to perform two different ta
 
 ## 🚀 Live Applications
 
-- **Customer Churn Prediction:** [Launch App](ADD_CLASSIFICATION_STREAMLIT_URL)
-- **Estimated Salary Prediction:** [Launch App](ADD_REGRESSION_STREAMLIT_URL)
+- **Customer Churn Prediction:** [Launch App](https://bank-churn-classification-4akcjgvxle8uaxelqqd8ne.streamlit.app/)
+- **Estimated Salary Prediction:** [Launch App](https://bank-salary-regression-4trczscnp8uibzpwamrtvk.streamlit.app/)
 
 *The links will be added after deploying both applications on Streamlit Community Cloud.*
 
